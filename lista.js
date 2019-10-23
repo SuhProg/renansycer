@@ -6,7 +6,7 @@ fetch("links.json")
     
     $(json).each(function(){
         var $el = '<li>' + $(this)[0].link + $(this)[0].nome + '</li>';
-        var $list = $('#linkslist > ul').append($el)
+        $('#linkslist > ul').append($el)
         
     })
 
