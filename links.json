@@ -1,54 +1,105 @@
-{
-     "Subquery": "https://pt.stackoverflow.com/questions/62953/uma-subquery-no-select-%C3%A9-calculada-para-cada-um-dos-resultados-ou-apenas-uma-vez ",
-     "Simples modal com css responsivo": "https://tableless.com.br/simples-modal-com-css-responsivo/ ",
-     "Salvar HTML no DB": "http://www.macoratti.net/16/07/aspn_htmlbd.htm ",
-     "Tutorial mongo DB para iniciantes": "https://www.luiztools.com.br/post/tutorial-mongodb-para-iniciantes-em-nosql/",
-     "Mongo ATLAS": "https://codigosimples.net/2018/04/23/conhecendo-o-mongodb-atlas-o-dbaas-da-mongodb/",
-     "JS_OUTPUT": "https://www.w3schools.com/js/js_output.asp",
-     "Minimo, Completo e Verificável": "https://pt.stackoverflow.com/help/mcve",
-     "Entendendo de uma vez por todas Regex": "https://medium.com/trainingcenter/entendendo-de-uma-vez-por-todas-express%C3%B5es-regulares-parte-1-introdu%C3%A7%C3%A3o-dfe63e289dc3",
-     "Exemplode REGEX": "https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_regexp_wordchar",
-     "Shawee hackton": "https://app.shawee.io/dashboard/hackathons",
-     "25 dicas e boas práticas de DB para devs": "https://medium.com/alexandre-malavasi/25-dicas-e-boas-pr%C3%A1ticas-de-banco-de-dados-para-desenvolvedores-7a60bfc28f1f",
-     "Escrevendo querys complexas": "https://garyhall.org.uk/writing-complex-SQL-queries.html",
-     "Beneficios da programação funcional": "https://alvinalexander.com/scala/fp-book/benefits-of-functional-programming",
-     "Aprendendo asp.net": "https://www.codigofonte.com.br/artigos/aprenda-a-programar-com-asp",
-     "Abrindo NAT no xone": "https://www.arenaxbox.com.br/como-abrir-a-nat-no-xbox-one-arena-ensina/",
-     "Programando um menu em bat": "https://www.profissionaisti.com.br/2016/07/tutorial-criar-arquivo-bat-com-menu/",
-     "Programando arquivos em bat": "http://hardware.rbtech.info/programando-arquivos-bat/",
-     "Comandos em bat 01": "https://ss64.com/nt/if.html",
-     "Criando e consumindo API C#": "https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01",
-     "Chamando conteudo wordpress no asp.NET/C#": "http://www.mundoasp.net/como-chamar-conteudo-do-wordpress-pelo-asp-net-c/",
-     "Blazor": "http://www.macoratti.net/18/05/net_blazor1.htm",
-     "Asp.NET Razor como implementar a camada de apresentação": "https://www.devmedia.com.br/asp-net-razor-como-implementar-a-camada-de-apresentacao/31530",
-     "Generics C#": "http://www.macoratti.net/16/10/c_generic1.htm",
-     "Introdução ao Mongo DB https": "//www.devmedia.com.br/introducao-ao-mongodb/30792",
-     "Programando no SQL Server": "https://www.devmedia.com.br/programando-no-sql-server/22770",
-     "Comandos em bat 02": "https://www.colorconsole.de/console/br/058.htm",
-     "SQL Injection": "https://www.devmedia.com.br/sql-injection/6102",
-     "Cursores SQL Server": "http://paulokaupa.blogspot.com/p/cursores.html",
-     "Injeção de dependência em C#": "https://www.devmedia.com.br/design-patterns-injecao-de-dependencia-com-csharp/23671",
-     "Manipulando arquivos em C": "http://linguagemc.com.br/arquivos-em-c-categoria-usando-arquivos/",
-     "Entrada e saída de em arquivos C": "https://pt.wikibooks.org/wiki/Programar_em_C/Entrada_e_sa%C3%ADda_em_arquivos",
-     "Classes e métodos estáticos": "http://contembits.com.br/minicursos/poo/Classes-e-Metodos-Estaticos.aspx",
-     "Arquiteturas comuns de aplicativos WEB": "https://docs.microsoft.com/pt-br/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures",
-     "Entendendo arquitetura multicamadas": "https://andradedearthur.wordpress.com/2016/06/12/entendendo-a-arquitetura-multicamadas/",
-     "Compreendendo e utilizando arquitetura em camadas": "http://www.macoratti.net/13/09/net_ncam.htm",
-     "Padroes de projeto": "http://www.macoratti.net/vbn_mvc.htm",
-     "Escrevendo queries otimizadas 01": "https://www.devmedia.com.br/escrevendo-queries-otimizadas-no-sql-server/20403 ",
-     "FIggle Fontes": "https://docs.microsoft.com/pt-br/dotnet/core/deploying/deploy-with-cli ",
-     "Criando Bot": "https://docs.microsoft.com/pt-br/dotnet/core/tools/global-tools-how-to-create ",
-     "Angular ": "https://blog.algaworks.com/o-que-e-angular/ ",
-     "JS Rodrigo Branas": "https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc",
-     "Inversão de Controle e Injeção de Dependencia": "http://www.macoratti.net/11/07/ioc_di1.htm",
-     "TSQL Dinamico": "https://www.devmedia.com.br/dynamic-t-sql-trabalhando-com-operadores-de-concatenacao-shortcodes/31611",
-     "Configurando TypeScript": "http://www.macoratti.net/16/06/vs_ts1.htm",
-     "Aprendendo React": "https://pt-br.reactjs.org/docs/hello-world.html",
-     "Frameworks JS artigo": "https://medium.com/by-vinicius-reis/o-que-e-react-ng2-auleria-vue-e34b0c77b5a1",
-     "Documentação ASP.NET CORE": "https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-2.2#why-choose-aspnet-core",
-     "Threads no C#": "https://pt.stackoverflow.com/questions/14904/entendendo-threads-em-c",
-     "Cluster algoritmos de balanceamento de carga": "https://pt.slideshare.net/luiz_arthur/tpicos-cluster-de-balanceamento-de-carga",
-     "Escrevendo queries otimizadas 02": "https://www.devmedia.com.br/escrevendo-queries-otimizadas-no-sql-server/20403",
-     "Sintaxe Spread": "https://medium.com/@adsonrocha/es6-usando-a-sintaxe-spread-espalhamento-e-par%C3%A2metros-rest-46b071e8a3fc",
-     "Google maps": "https://www.princiweb.com.br/blog/programacao/google-apis/google-maps-api-v3-criando-um-mapa-personalizado.html"
-}
+[
+    {"nome": "Subquery", "link": "https://pt.stackoverflow.com/questions/62953/uma-subquery-no-select-%C3%A9-calculada-para-cada-um-dos-resultados-ou-apenas-uma-vez "},
+    
+    {"nome": "Simples modal com css responsivo", "link": "https://tableless.com.br/simples-modal-com-css-responsivo/ "},
+    
+    {"nome": "Salvar HTML no DB", "link": "http://www.macoratti.net/16/07/aspn_htmlbd.htm "},
+    
+    {"nome": "Tutorial mongo DB para iniciantes", "link": "https://www.luiztools.com.br/post/tutorial-mongodb-para-iniciantes-em-nosql/"},
+    
+    {"nome": "Mongo ATLAS", "link": "https://codigosimples.net/2018/04/23/conhecendo-o-mongodb-atlas-o-dbaas-da-mongodb/"},
+    
+    {"nome": "JS_OUTPUT", "link": "https://www.w3schools.com/js/js_output.asp"},
+    
+    {"nome": "Minimo, Completo e Verificável", "link": "https://pt.stackoverflow.com/help/mcve"},
+    
+    {"nome": "Entendendo de uma vez por todas Regex", "link": "https://medium.com/trainingcenter/entendendo-de-uma-vez-por-todas-express%C3%B5es-regulares-parte-1-introdu%C3%A7%C3%A3o-dfe63e289dc3"},
+    
+    {"nome": "Exemplode REGEX", "link": "https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_regexp_wordchar"},
+    
+    {"nome": "Shawee hackton", "link": "https://app.shawee.io/dashboard/hackathons"},
+    
+    {"nome": "25 dicas e boas práticas de DB para devs", "link": "https://medium.com/alexandre-malavasi/25-dicas-e-boas-pr%C3%A1ticas-de-banco-de-dados-para-desenvolvedores-7a60bfc28f1f"},
+    
+    {"nome": "Escrevendo querys complexas", "link": "https://garyhall.org.uk/writing-complex-SQL-queries.html"},
+    
+    {"nome": "Beneficios da programação funcional", "link": "https://alvinalexander.com/scala/fp-book/benefits-of-functional-programming"},
+    
+    {"nome": "Aprendendo asp.net", "link": "https://www.codigofonte.com.br/artigos/aprenda-a-programar-com-asp"},
+    
+    {"nome": "Abrindo NAT no xone", "link": "https://www.arenaxbox.com.br/como-abrir-a-nat-no-xbox-one-arena-ensina/"},
+    
+    {"nome": "Programando um menu em bat", "link": "https://www.profissionaisti.com.br/2016/07/tutorial-criar-arquivo-bat-com-menu/"},
+    
+    {"nome": "Programando arquivos em bat", "link": "http://hardware.rbtech.info/programando-arquivos-bat/"},
+    
+    {"nome": "Comandos em bat 01", "link": "https://ss64.com/nt/if.html"},
+    
+    {"nome": "Criando e consumindo API C#", "link": "https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01"},
+    
+    {"nome": "Chamando conteudo wordpress no asp.NET/C#", "link": "http://www.mundoasp.net/como-chamar-conteudo-do-wordpress-pelo-asp-net-c/"},
+    
+    {"nome": "Blazor", "link": "http://www.macoratti.net/18/05/net_blazor1.htm"},
+    
+    {"nome": "Asp.NET Razor como implementar a camada de apresentação", "link": "https://www.devmedia.com.br/asp-net-razor-como-implementar-a-camada-de-apresentacao/31530"},
+    
+    {"nome": "Generics C#", "link": "http://www.macoratti.net/16/10/c_generic1.htm"},
+    
+    {"nome": "Introdução ao Mongo DB https", "link": "//www.devmedia.com.br/introducao-ao-mongodb/30792"},
+    
+    {"nome": "Programando no SQL Server", "link": "https://www.devmedia.com.br/programando-no-sql-server/22770"},
+    
+    {"nome": "Comandos em bat 02", "link": "https://www.colorconsole.de/console/br/058.htm"},
+    
+    {"nome": "SQL Injection", "link": "https://www.devmedia.com.br/sql-injection/6102"},
+    
+    {"nome": "Cursores SQL Server", "link": "http://paulokaupa.blogspot.com/p/cursores.html"},
+    
+    {"nome": "Injeção de dependência em C#", "link": "https://www.devmedia.com.br/design-patterns-injecao-de-dependencia-com-csharp/23671"},
+    
+    {"nome": "Manipulando arquivos em C", "link": "http://linguagemc.com.br/arquivos-em-c-categoria-usando-arquivos/"},
+    
+    {"nome": "Entrada e saída de em arquivos C", "link": "https://pt.wikibooks.org/wiki/Programar_em_C/Entrada_e_sa%C3%ADda_em_arquivos"},
+    
+    {"nome": "Classes e métodos estáticos", "link": "http://contembits.com.br/minicursos/poo/Classes-e-Metodos-Estaticos.aspx"},
+    
+    {"nome": "Arquiteturas comuns de aplicativos WEB", "link": "https://docs.microsoft.com/pt-br/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures"},
+    
+    {"nome": "Entendendo arquitetura multicamadas", "link": "https://andradedearthur.wordpress.com/2016/06/12/entendendo-a-arquitetura-multicamadas/"},
+    
+    {"nome": "Compreendendo e utilizando arquitetura em camadas", "link": "http://www.macoratti.net/13/09/net_ncam.htm"},
+    
+    {"nome": "Padroes de projeto", "link": "http://www.macoratti.net/vbn_mvc.htm"},
+    
+    {"nome": "Escrevendo queries otimizadas 01", "link": "https://www.devmedia.com.br/escrevendo-queries-otimizadas-no-sql-server/20403 "},
+    
+    {"nome": "FIggle Fontes", "link": "https://docs.microsoft.com/pt-br/dotnet/core/deploying/deploy-with-cli "},
+    
+    {"nome": "Criando Bot", "link": "https://docs.microsoft.com/pt-br/dotnet/core/tools/global-tools-how-to-create "},
+    
+    {"nome": "Angular ", "link": "https://blog.algaworks.com/o-que-e-angular/ "},
+    
+    {"nome": "JS Rodrigo Branas", "link": "https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc"},
+    
+    {"nome": "Inversão de Controle e Injeção de Dependencia", "link": "http://www.macoratti.net/11/07/ioc_di1.htm"},
+    
+    {"nome": "TSQL Dinamico", "link": "https://www.devmedia.com.br/dynamic-t-sql-trabalhando-com-operadores-de-concatenacao-shortcodes/31611"},
+    
+    {"nome": "Configurando TypeScript", "link": "http://www.macoratti.net/16/06/vs_ts1.htm"},
+    
+    {"nome": "Aprendendo React", "link": "https://pt-br.reactjs.org/docs/hello-world.html"},
+    
+    {"nome": "Frameworks JS artigo", "link": "https://medium.com/by-vinicius-reis/o-que-e-react-ng2-auleria-vue-e34b0c77b5a1"},
+    
+    {"nome": "Documentação ASP.NET CORE", "link": "https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-2.2#why-choose-aspnet-core"},
+    
+    {"nome": "Threads no C#", "link": "https://pt.stackoverflow.com/questions/14904/entendendo-threads-em-c"},
+    
+    {"nome": "Cluster algoritmos de balanceamento de carga", "link": "https://pt.slideshare.net/luiz_arthur/tpicos-cluster-de-balanceamento-de-carga"},
+    
+    {"nome": "Escrevendo queries otimizadas 02", "link": "https://www.devmedia.com.br/escrevendo-queries-otimizadas-no-sql-server/20403"},
+    
+    {"nome": "Sintaxe Spread", "link": "https://medium.com/@adsonrocha/es6-usando-a-sintaxe-spread-espalhamento-e-par%C3%A2metros-rest-46b071e8a3fc"},
+    
+    {"nome": "Google maps", "link": "https://www.princiweb.com.br/blog/programacao/google-apis/google-maps-api-v3-criando-um-mapa-personalizado.html"}
+]
